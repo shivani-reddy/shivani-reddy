@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**shivani-reddy/shivani-reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🙏🏻, I'm Shivani! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Software Engineer at JP morgan and chase Bank
+
+Linkedin:Shivani-reddy 
+
+
+
+A little more about me...
+const aman = {
+    pronouns: "She" | "Her",
+    code: ["Java", "Javascript", "🐍Python", "SQL"],
+    askMeAbout: ["Back end dev", "tech", "cooking","taravelling"],
+    technologies: {
+        frontEnd: {
+            js: ["Angular" ],
+            css: ["scss", "bootstrap"]
+        },
+        backEnd: {
+            Java: ["Spring boot", "Multithreading", "sql","Microservices"],  
+        },
+        devOps: ["AWS", "Docker🐳 Begginer"],
+        databases: ["mongoDB🍀 Intermidate","MySql Advance" ],
+        misc: ["Firebase","php", "opencat", "Django", "Java","splunk", "New relic","grafana","Dynatrace"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "multi page application","Microservice architecture"],
+    CurrentProject: "I am developing payments mircoservices services in Financial Requirement platfrom Whole backend API,Database maintaing & manipulating also AWS service setup & maintaining",
+   
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+ 
+
